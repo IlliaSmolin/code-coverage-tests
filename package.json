@@ -12,7 +12,7 @@
     "nyc": "^15.0.1"
   },
   "scripts": {
-    "test": "nyc -n './test/**.js' mocha"
+    "test": "nyc mocha"
   },
   "author": "Illia Smolin",
   "license": "ISC"
